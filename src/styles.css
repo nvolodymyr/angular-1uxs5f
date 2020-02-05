@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+
+li {
+  list-style: none;
+}
+.done-true {
+  text-decoration: line-through;
+  color: red;
+}
